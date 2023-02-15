@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    color: gray;
+}
+
+h2 {
+    color: gray;
+}
+
+img {
+    width: 500px;
+}
+
+
+/*References: 
+https://www.w3schools.com/html/html_css.asp
+https://www.editorx.com/shaping-design/article/resize-image-css
+*/
